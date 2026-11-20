@@ -1,3 +1,2 @@
-- OpenRGB ist jetzt in Aura mit drin: Niemand muss mehr etwas extra installieren. RGB in den Einstellungen anschalten, Aura startet OpenRGB selbst im Hintergrund und beendet es wieder mit
-- Bestehende Auras bekommen den OpenRGB-Ordner beim Update automatisch dazu
-- OpenRGB 1.1 unverändert mitgeliefert (GPL v2, Lizenz und Quellcode-Link im Ordner OpenRGB)
+- RGB-Takt: Aura schickt nur noch so viele Farbwechsel, wie die Geräte schaffen. Vorher hat sich das bei Logitech-Tastaturen gestaut und das Licht hing immer weiter hinterher
+- Deltaco-Maus: Aura fragt jetzt ab, ob die Funkmaus wach ist, und schickt die Farbe neu, sobald sie aufwacht
