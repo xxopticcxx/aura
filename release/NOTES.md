@@ -1,3 +1,2 @@
-- Player-Bildschirm frei wählbar (Einstellungen → Bildschirme)
-- Eigene Tastenkürzel für Play/Pause, Weiter, Zurück, Lauter, Leiser
-- Updates kommen ab jetzt automatisch
+- RGB: erkennt die LEDs jetzt zuverlässiger (auch mit OpenRGB 1.x)
+- RGB: zeigt an, ob OpenRGB verbunden ist und wie viele Geräte gefunden wurden
