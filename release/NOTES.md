@@ -1,1 +1,2 @@
-- Mausrad funktioniert jetzt auf dem Wallpaper: Über dem Cover-Flow blätterst du mit dem Rad durch die Songs, über dem Lautstärkeregler änderst du die Lautstärke
+- Neuer Pause-Modus im Tray (Rechtsklick aufs Aura-Symbol): hält die Musik an, stoppt Video, Effekte und Ambilight, gibt dem RGB sein altes Licht zurück und braucht kaum noch Leistung. Nochmal klicken, und alles läuft weiter
+- Autostart ist zuverlässiger: Der Eintrag passt sich an, wenn du den Aura-Ordner verschiebst, und Aura wartet beim Hochfahren kurz, bis der Desktop bereit ist
