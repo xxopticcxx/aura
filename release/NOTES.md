@@ -1,3 +1,3 @@
-- RGB im Takt: Jeder Kick gibt einen harten Lichtblitz und wechselt die Farbe. Läuft ohne Kicks, wandern die Farben ruhig weiter.
-- Weniger Fehlalarme vom Virenscanner: Der alte Spotify-Webplayer (versteckter Browser) ist raus, Mausklicks laufen über die normale Windows-Schnittstelle statt über einen System-Hook, und die exe hat jetzt Hersteller- und Versionsangaben
-- Medientasten und sofortige Update-Anzeige wie in 1.5.2
+- OpenRGB ist jetzt in Aura mit drin: Niemand muss mehr etwas extra installieren. RGB in den Einstellungen anschalten, Aura startet OpenRGB selbst im Hintergrund und beendet es wieder mit
+- Bestehende Auras bekommen den OpenRGB-Ordner beim Update automatisch dazu
+- OpenRGB 1.1 unverändert mitgeliefert (GPL v2, Lizenz und Quellcode-Link im Ordner OpenRGB)
