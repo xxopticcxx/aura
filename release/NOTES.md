@@ -1,3 +1,3 @@
-- Medientasten auf der Tastatur (Play/Pause, Weiter, Zurück, Stop) steuern jetzt Aura
-- Neue Updates werden sofort angezeigt, ohne Aura neu zu starten (Aura schaut alle 2 Minuten nach)
-- Deltaco-Maus: genaueres Protokoll, falls die Farbe nicht ankommt
+- RGB im Takt: Jeder Kick gibt einen harten Lichtblitz und wechselt die Farbe. Läuft ohne Kicks, wandern die Farben ruhig weiter.
+- Weniger Fehlalarme vom Virenscanner: Der alte Spotify-Webplayer (versteckter Browser) ist raus, Mausklicks laufen über die normale Windows-Schnittstelle statt über einen System-Hook, und die exe hat jetzt Hersteller- und Versionsangaben
+- Medientasten und sofortige Update-Anzeige wie in 1.5.2
