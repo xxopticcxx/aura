@@ -1,4 +1,2 @@
-Aura braucht jetzt deutlich weniger Leistung:
-- Musikvideos laufen intern in 720p (Hauptbildschirm) bzw. 480p (andere Bildschirme) statt bis zu 4K. Hinter dem Glas sieht man keinen Unterschied
-- Animationen, Visualizer und Licht laufen mit 30 Bildern pro Sekunde statt mit der vollen Bildwiederholrate
-- Such-, Einstellungs- und Popup-Fenster schlafen, solange sie zu sind
+- RGB aus oder Aura beenden lässt die LEDs nicht mehr schwarz zurück: Aura merkt sich das ursprüngliche Licht jedes Geräts und stellt es wieder her
+- Das WLED-Feld nimmt keine OpenRGB-Adresse mehr an (127.0.0.1:6742). OpenRGB läuft automatisch, da muss nichts eingetragen werden
