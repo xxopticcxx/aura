@@ -1,2 +1,2 @@
-- RGB aus oder Aura beenden lässt die LEDs nicht mehr schwarz zurück: Aura merkt sich das ursprüngliche Licht jedes Geräts und stellt es wieder her
-- Das WLED-Feld nimmt keine OpenRGB-Adresse mehr an (127.0.0.1:6742). OpenRGB läuft automatisch, da muss nichts eingetragen werden
+- Ambient ist jetzt ein echtes Ambilight: Läuft ein Musikvideo, nehmen Rand, Glas, Uhr und RGB laufend die Farben aus dem Video und wechseln weich mit
+- Ohne Video bleiben wie bisher die Farben vom Cover
