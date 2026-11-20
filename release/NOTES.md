@@ -1,2 +1,3 @@
-- Ambient ist jetzt ein echtes Ambilight: Läuft ein Musikvideo, nehmen Rand, Glas, Uhr und RGB laufend die Farben aus dem Video und wechseln weich mit
-- Ohne Video bleiben wie bisher die Farben vom Cover
+- Cover-Flow: Ein Klick auf eine Karte spielt den Song sofort. Blättern geht mit den Pfeilen oder dem Mausrad
+- Die Leiste springt nicht mehr zurück, während du blätterst, und Klicks gehen nicht mehr verloren
+- Keine falschen Cover mehr (z. B. Elvis bei einem Foster-Song): Das Cover muss jetzt auch vom richtigen Künstler sein
