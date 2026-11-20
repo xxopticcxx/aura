@@ -1,2 +1,2 @@
-- RGB-Takt: Aura schickt nur noch so viele Farbwechsel, wie die Geräte schaffen. Vorher hat sich das bei Logitech-Tastaturen gestaut und das Licht hing immer weiter hinterher
-- Deltaco-Maus: Aura fragt jetzt ab, ob die Funkmaus wach ist, und schickt die Farbe neu, sobald sie aufwacht
+- RGB-Farben sind jetzt kräftiger: Blasse Cover-Farben werden auf LEDs nicht mehr braun, sondern sauber orange, rot und so weiter
+- Gilt für Tastatur, Mainboard, Lüfter, WLED und die Deltaco-Maus
