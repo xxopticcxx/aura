@@ -1,3 +1,3 @@
-- RGB leuchtet jetzt wie der Rand: gleiche Farben, die im Kreis wandern, und zuckt mit dem Bass
-- Kein Braun mehr: Farben werden in leisen Stellen nicht mehr so stark gedimmt
-- Updater läuft jetzt komplett in Aura selbst, startet keine anderen Programme mehr (Windows Defender hatte deswegen Fehlalarm gegeben)
+- Neues Theme **RGB Gaming**: Regenbogen auf Rand, Uhr, Text und allen RGB-Geräten, läuft mit dem Bass schneller. Die Deltaco-Maus nutzt dabei ihren eigenen Regenbogen.
+- Das Standard-Theme heißt jetzt **Ambient** (Farben vom Cover, wie ein Ambilight)
+- Fix: Wenn Autoplay den nächsten Song aussucht, blieben manchmal Video und Songtext vom vorherigen Song hängen
