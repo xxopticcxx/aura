@@ -1,0 +1,3 @@
+- Player-Bildschirm frei wählbar (Einstellungen → Bildschirme)
+- Eigene Tastenkürzel für Play/Pause, Weiter, Zurück, Lauter, Leiser
+- Updates kommen ab jetzt automatisch
