@@ -1,2 +1,1 @@
-- Neuer Leistungsmodus im Tray („Leistungsmodus (nur Musik)“): Musik, Songtext, Uhr, Player und RGB laufen weiter. Musikvideos, Partikel, Visualizer, Glas-Unschärfe und Ambilight sind aus, die Nebenbildschirme schlafen. Ideal beim Zocken
-- Aura merkt sich den Leistungsmodus auch nach einem Neustart
+- Pause-Modus repariert: Der Haken im Tray schaltet jetzt zuverlässig um, und die Musik hält bei jedem Player an (YouTube, SoundCloud, Spotify-App, eigene Dateien)
