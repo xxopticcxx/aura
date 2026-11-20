@@ -1,3 +1,1 @@
-- Neues Theme **RGB Gaming**: Regenbogen auf Rand, Uhr, Text und allen RGB-Geräten, läuft mit dem Bass schneller. Die Deltaco-Maus nutzt dabei ihren eigenen Regenbogen.
-- Das Standard-Theme heißt jetzt **Ambient** (Farben vom Cover, wie ein Ambilight)
-- Fix: Wenn Autoplay den nächsten Song aussucht, blieben manchmal Video und Songtext vom vorherigen Song hängen
+- Autoplay spielt nur noch echte Lieder: keine Reactions, Reviews, Podcasts, Interviews oder Shorts mehr
