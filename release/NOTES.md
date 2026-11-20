@@ -1,3 +1,1 @@
-- Cover-Flow: Ein Klick auf eine Karte spielt den Song sofort. Blättern geht mit den Pfeilen oder dem Mausrad
-- Die Leiste springt nicht mehr zurück, während du blätterst, und Klicks gehen nicht mehr verloren
-- Keine falschen Cover mehr (z. B. Elvis bei einem Foster-Song): Das Cover muss jetzt auch vom richtigen Künstler sein
+- Mausrad funktioniert jetzt auf dem Wallpaper: Über dem Cover-Flow blätterst du mit dem Rad durch die Songs, über dem Lautstärkeregler änderst du die Lautstärke
