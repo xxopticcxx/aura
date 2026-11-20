@@ -1,2 +1,2 @@
-- Neuer Pause-Modus im Tray (Rechtsklick aufs Aura-Symbol): hält die Musik an, stoppt Video, Effekte und Ambilight, gibt dem RGB sein altes Licht zurück und braucht kaum noch Leistung. Nochmal klicken, und alles läuft weiter
-- Autostart ist zuverlässiger: Der Eintrag passt sich an, wenn du den Aura-Ordner verschiebst, und Aura wartet beim Hochfahren kurz, bis der Desktop bereit ist
+- Neuer Leistungsmodus im Tray („Leistungsmodus (nur Musik)“): Musik, Songtext, Uhr, Player und RGB laufen weiter. Musikvideos, Partikel, Visualizer, Glas-Unschärfe und Ambilight sind aus, die Nebenbildschirme schlafen. Ideal beim Zocken
+- Aura merkt sich den Leistungsmodus auch nach einem Neustart
