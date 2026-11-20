@@ -1,1 +1,3 @@
-- Autoplay spielt nur noch echte Lieder: keine Reactions, Reviews, Podcasts, Interviews oder Shorts mehr
+- Medientasten auf der Tastatur (Play/Pause, Weiter, Zurück, Stop) steuern jetzt Aura
+- Neue Updates werden sofort angezeigt, ohne Aura neu zu starten (Aura schaut alle 2 Minuten nach)
+- Deltaco-Maus: genaueres Protokoll, falls die Farbe nicht ankommt
