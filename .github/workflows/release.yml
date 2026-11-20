@@ -1,0 +1,27 @@
+name: Release
+
+# Sobald eine neue Version in release/ landet, macht GitHub daraus automatisch ein Release.
+# Alle Auras finden es dann über "Jetzt updaten".
+on:
+  push:
+    branches: [main]
+    paths: ['release/**']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release erstellen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V=$(tr -d '[:space:]' < release/VERSION)
+          if gh release view "v$V" >/dev/null 2>&1; then
+            echo "v$V gibt es schon, nichts zu tun"
+            exit 0
+          fi
+          gh release create "v$V" "release/Aura-$V.zip" --title "Aura $V" --notes-file release/NOTES.md
