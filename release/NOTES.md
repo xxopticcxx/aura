@@ -1,1 +1,1 @@
-- Pause-Modus repariert: Der Haken im Tray schaltet jetzt zuverlässig um, und die Musik hält bei jedem Player an (YouTube, SoundCloud, Spotify-App, eigene Dateien)
+- Richtiger Song: Aura nimmt bei YouTube nur noch Videos vom richtigen Künstler. Vorher konnte bei gleichem Titel ein Song von jemand anderem laufen (z. B. Olexesh statt Dame bei „Lebendig begraben“)
